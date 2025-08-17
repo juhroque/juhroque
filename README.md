@@ -2,7 +2,7 @@
 
 🔭 Studying Computer Science at PUC Minas.
 <br>
-🌱 Currently working as a FullStack Intern Developer.
+🌱 Currently working as a FullStack Junior Developer.
 <br>
 ☁️ AZ-900 (Azure Fundamentals) Certified.
 
@@ -15,8 +15,6 @@
 
 ### Working on:
 - React.js
-- TypeScript
-- OutSystems
 - Clean Architecture
 
 <div> 
